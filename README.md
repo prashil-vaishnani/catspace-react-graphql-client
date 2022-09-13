@@ -9,7 +9,4 @@ To get started:
 1. Run `npm install`.
 1. Run `npm start`.
 
-This will start the React application and open up `localhost:3000` in your web browser.
-
-> Note that the client will show an `ERROR: Failed to fetch` message unless you have the [counterpart GraphQL server](https://github.com/apollographql/odyssey-lift-off-part5-server) running locally on `localhost:4000`.
 # catspace-react-graphql-client
